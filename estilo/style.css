@@ -36,6 +36,7 @@ header {
     padding: 20px;
     font-family: var(--font-bangers);
     text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.256);
+    margin: auto;
     margin-bottom: -20px;
    }
 
