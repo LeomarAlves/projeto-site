@@ -32,7 +32,7 @@ header {
 
    header > h1 {
     color: white;
-    font-size: 6em;
+    font-size: 5em;
     padding: 20px;
     font-family: var(--font-bangers);
     text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.256);
