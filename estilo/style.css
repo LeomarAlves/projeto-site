@@ -32,7 +32,7 @@ header {
 
    header > h1 {
     color: white;
-    font-size: 8em;
+    font-size: 6em;
     padding: 20px;
     font-family: var(--font-bangers);
     text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.256);
@@ -73,17 +73,16 @@ header {
    }
 
    main {
-    background-color: white;
+    min-width: 300px;
+    max-width: 1000px;
     margin: auto;
-    min-width: 320px;
-    max-width: 1200px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: white;
     color: black;
     text-align: justify;
-    margin: auto;
-    margin-top: 1px;
     font-family: var(--font-padrao);
     border-radius:0px 0px 5px 5px;
-    padding-top: 5px;
     
 
    }
