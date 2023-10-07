@@ -121,15 +121,16 @@ header {
     max-width: 806px;
    }
 
-div.video {
+    div.video {
     background-color: var(--cor5);
-    margin: -100px -20px -80px -20px;
+    margin: 0px;
     padding: 20px;
     padding-bottom: 58%;
     position: relative;
+    
 }
 
-div.video > iframe {
+    div.video > iframe {
     position: absolute;
     top: 20%;
     left: 17.5%;
