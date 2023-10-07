@@ -63,7 +63,7 @@ header {
     text-decoration: none;
     font-weight: bold;
     padding: 2px 15px 2px 15px;
-    margin: 0px 35px 0px 35px;
+    margin: 0px;
     transition-duration: 0.2s;
     border-radius: 6px;
    }
