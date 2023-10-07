@@ -44,7 +44,7 @@ header {
     font-family: var(--font-destaque);
     font-size: 1.2em;
     padding-bottom: 10px;
-    text-decoration: underline;
+    
    }
 
    nav {
@@ -62,7 +62,7 @@ header {
     font-size: 1.2em;
     text-decoration: none;
     font-weight: bold;
-    padding: 2px 15px 2px 15px;
+    padding: 2px 13px 2px 13px;
     margin: 0px;
     transition-duration: 0.2s;
     border-radius: 6px;
@@ -74,10 +74,10 @@ header {
    }
 
    main {
-    min-width: 300px;
+    min-width: 250px;
     max-width: 1000px;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     padding: 20px;
     background-color: white;
     color: black;
@@ -90,7 +90,7 @@ header {
 
    main h1 {
     font-family: var(--font-destaque);
-    font-size: 2em;
+    font-size: 1.5em;
     text-indent: 26px;
     padding: 5px 0px 2px 0px
    }
@@ -144,8 +144,16 @@ header {
     background-color: black;
     text-align: center;
     font-family: var(--font-destaque);
+    height: 30px;
     padding: 3px;
-    margin: 3px 0px 0px 0px;
+    margin: auto;
+    
+   }
+
+   footer > p {
+    margin: auto;
+    padding-top: 7px;
+    
    }
 
 
