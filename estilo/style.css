@@ -32,7 +32,7 @@ header {
 
 header > h1 {
 color: white;
-font-size: 4em;
+font-size: 8vw;
 padding: 20px;
 font-family: var(--font-bangers);
 text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.256);
@@ -42,7 +42,7 @@ margin-bottom: -20px;
 
 header > p {
 font-family: var(--font-destaque);
-font-size: 1.2em;
+font-size: 2.5vw;
 padding-bottom: 10px;
 
 }
@@ -78,14 +78,14 @@ margin-bottom: 10px;
 padding: 20px;
 background-color: white;
 color: black;
-text-align: justify;
+text-align: left;
 font-family: var(--font-padrao);
 border-radius:0px 0px 5px 5px;
 }
 
 main h1 {
 font-family: var(--font-destaque);
-font-size: 2.5vw;
+font-size: 2em;
 text-indent: 26px;
 padding: 5px 0px 2px 0px
 }
@@ -99,9 +99,9 @@ padding: 5px 0px 2px 0px
 
 main p {
 text-indent: 15px;
-text-align: justify;
+
 padding: 12px;
-font-size: 2.2vw;
+font-size: 1.5em;
 margin-top: -5px;
 line-height: 1.2em;
 }
