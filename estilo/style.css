@@ -42,7 +42,7 @@ margin-bottom: -20px;
 
 header > p {
 font-family: var(--font-destaque);
-
+font-size: 1.2em;
 padding-bottom: 10px;
 
 }
@@ -101,9 +101,9 @@ main p {
 text-indent: 15px;
 text-align: justify;
 padding: 12px;
-font-size: 1.2em;
+
 margin-top: -5px;
-line-height: 1.2em;
+
 }
 
 main img {
