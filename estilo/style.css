@@ -140,16 +140,26 @@ footer {
 background-color: black;
 text-align: center;
 font-family: var(--font-destaque);
-height: 30px;
+height: 100px;
 padding: 3px;
 margin: auto;
-
 }
 
 footer > p {
 margin: auto;
 padding-top: 7px;
+}
 
+section#contato img {
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+   }
+
+section#contato img:hover {
+border: 2px solid rgb(241, 234, 234);
+transform: translate(-3px, -3px);
 }
 
 
