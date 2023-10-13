@@ -71,7 +71,7 @@ background-color: rgba(112, 13, 15, 0.450);
 }
 
 main {
-min-width: 300px;
+min-width: 250px;
 max-width: 1000px;
 margin: auto;
 margin-bottom: 10px;
@@ -102,7 +102,7 @@ main p {
 text-indent: 18px;
 
 padding: 12px;
-font-size: 1.5em;
+font-size: 1.2em;
 margin-top: -5px;
 line-height: 1.2em;
 }
